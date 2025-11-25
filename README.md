@@ -4,7 +4,7 @@ A beautiful, production-ready React website for converting Brazilian Reals (BRL)
 
 ## 🌐 Live Demo
 
-Visit the live app: [GitHub Pages URL will be here after deployment]
+**[Visit the live app →](https://celiao.github.io/currency-converter/)**
 
 ## Features
 
